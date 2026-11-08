@@ -1,2 +1,13 @@
 # noctide-vault
-Noteser vault
+# Useful Links
+| 名称       | 地址                         |
+| -------- | -------------------------- |
+| DeepSeek | https://chat.deepseek.com/ |
+| ChatGPT  | https://chatgpt.com/       |
+| Google   | https://www.google.com/    |
+| Bing     | https://www.bing.com/      |
+| GitHub   | https://github.com/        |
+| noteser  | https://noteser.app/       |
+| WritePad | https://writepad.org/      |
+| WestWorld   | https://westworldss.com/portal/order/node     |
+|动漫共和国|https://oneghg.com/|
