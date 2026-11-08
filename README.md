@@ -12,3 +12,4 @@
 | WestWorld   | https://sjssr.fun/    |
 |动漫共和国|https://oneghg.com/|
 |greenvideo|https://greenvideo.cc/|
+|蓝奏云|https://www.lanzou.com/|
