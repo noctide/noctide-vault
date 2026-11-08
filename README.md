@@ -9,6 +9,6 @@
 | GitHub   | https://github.com/        |
 | noteser  | https://noteser.app/       |
 | WritePad | https://writepad.org/      |
-| WestWorld   | https://free99sj.com    |
+| WestWorld   | https://sjssr.fun/    |
 |动漫共和国|https://oneghg.com/|
 |greenvideo|https://greenvideo.cc/|
